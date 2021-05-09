@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component Test Cases Snapshot create/update test case 1`] = `
+<div>
+  <div>
+    <div
+      className="d-flex flex-row"
+    >
+      <nav
+        className="sidebar d-none d-sm-none d-md-block"
+      >
+        <div
+          className="sticky-top h100"
+        >
+          <ul
+            className="nav flex-column"
+          >
+            <li
+              className="nav-item mt-3"
+            >
+              <div
+                className="nav-link"
+              >
+                <i
+                  className="fa fa-bars text-white"
+                />
+              </div>
+            </li>
+            <br />
+            <li
+              className="nav-item"
+            >
+              <a
+                aria-current="page"
+                className="nav-link active"
+                href="/"
+                onClick={[Function]}
+                style={Object {}}
+              >
+                <i
+                  className="fa fa-home"
+                />
+              </a>
+            </li>
+            <li
+              className="nav-item"
+            >
+              <a
+                aria-current={null}
+                className="nav-link"
+                href="/contacts"
+                onClick={[Function]}
+              >
+                <i
+                  className="fa fa-user"
+                />
+              </a>
+            </li>
+            <li
+              className="nav-item"
+            >
+              <a
+                aria-current={null}
+                className="nav-link"
+                href="/settings"
+                onClick={[Function]}
+              >
+                <i
+                  className="fa fa-gear"
+                />
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <div
+        style={
+          Object {
+            "backgroundColor": "white",
+            "color": "black",
+            "padding": 20,
+          }
+        }
+      >
+        <div>
+          <h1>
+            Loading...
+          </h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`App Component Test Cases Snapshot create/update test case for Dashboard 1`] = `ReactWrapper {}`;
+
+exports[`App Component Test Cases Snapshot create/update test case for Header 1`] = `ReactWrapper {}`;

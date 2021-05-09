@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact Component test cases Snapshot create/update test case for Contacts 1`] = `ShallowWrapper {}`;
