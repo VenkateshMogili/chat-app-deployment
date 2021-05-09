@@ -1,7 +1,6 @@
 .firebaserc
 firebase.json
 .firebase
-.github
 
 # dependencies
 /build
